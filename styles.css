@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body
+{
+    text-align: center;
+    align-content: center;
+    font-family: 'Righteous', cursive;
+    background-color: #312E81
+    ;
+    font-weight: 300;
+    font-size: 20px;
+   margin: 0.2rem;
+
+
+}
+.main
+{
+    background-color: #A78BFA
+    ;
+    margin: auto;
+   
+    padding-left: 1rem;
+    padding-right: 1rem; 
+    padding-bottom: 0.2rem;
+    padding: auto;
+    border-radius: 1rem; 
+    color: white;
+    width: 24rem;
+
+}
+#location
+{
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+    background-color: whitesmoke;
+    border: 0px;
+    margin: 0px;
+    height: 2.5rem;
+    width: 15rem;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    text-align: center;
+}
+
+span
+{
+    display: inline;
+}
+img
+{
+    padding: 0rem;
+    margin: 0rem;
+    height: 150px;
+    width: 150px;
+}
+.temp
+{
+    font-size: 60px;
+}
+.temp-min
+{
+    margin-right: 0.5rem;
+}
